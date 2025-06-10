@@ -1,0 +1,642 @@
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Running DotNet\DA_CNNET\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+C:\Running DotNet\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.test.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\OneDrive\Desktop\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET (1)\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KeHoachDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KetQuaDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhieuDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Report.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.TieuChiDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.pdb
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Zalo Received Files\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.Interfaces.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.System.Drawing.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.pdb
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KeHoachDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KetQuaDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhieuDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Report.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.TieuChiDanhGia.resources
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+D:\DA_CNNET_SUA\Duy Đùi bầu\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KeHoachDanhGia.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KetQuaDanhGia.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDanhGia.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhieuDanhGia.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Report.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.TieuChiDanhGia.resources
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.Interfaces.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.System.Drawing.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.pdb
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DA_CNNET_XONG\DA_CNNET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe.config
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\stdole.dll
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ClosedXML.Parser.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\EPPlus.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\RBush.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Buffers.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Drawing.Common.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Memory.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.BangCong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.BangThongKeDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChangePassword.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ForgotPassword.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormMain.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KeHoachDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.KetQuaDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ChamCong.ListChamCong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Login.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainCong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.MainLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Quanly.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhanCong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.PhieuDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyBaoHiem.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.BoPhan.QuanLyBoPhan.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyDaoTao.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.duAn.QuanLyDuAn.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyHopDong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyKhenThuongKyLuat.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyLuong.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyNhanSu.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.QuanLyPhongBan.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Report.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.ShowInfoAdmin.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Group.SignUp.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.Properties.Resources.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.TieuChiDanhGia.resources
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresour.BBE6D90F.Up2Date
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.exe
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.pdb
+C:\Users\USER\Documents\Zalo Received Files\Đồ án NET\DA_CNNET\HMresourcemanagementsystem\HMresourcemanagementsystem\obj\Debug\HMresourcemanagementsystem.FormLienHe.resources

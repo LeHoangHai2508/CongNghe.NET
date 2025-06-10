@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|c:\\users\\user\\documents\\zalo received files\\\u0111\u1ED3 \u00E1n net\\da_cnnet\\hmresourcemanagementsystem\\hmresourcemanagementsystem\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|solutionrelative:hmresourcemanagementsystem\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|c:\\users\\user\\documents\\zalo received files\\\u0111\u1ED3 \u00E1n net\\da_cnnet\\hmresourcemanagementsystem\\hmresourcemanagementsystem\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|solutionrelative:hmresourcemanagementsystem\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|c:\\users\\user\\documents\\zalo received files\\\u0111\u1ED3 \u00E1n net\\da_cnnet\\hmresourcemanagementsystem\\hmresourcemanagementsystem\\quanlyluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|solutionrelative:hmresourcemanagementsystem\\quanlyluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|c:\\users\\user\\documents\\zalo received files\\\u0111\u1ED3 \u00E1n net\\da_cnnet\\hmresourcemanagementsystem\\hmresourcemanagementsystem\\listchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2285D38B-F50C-485A-B8AC-A20EE0EEE16E}|HMresourcemanagementsystem\\HMresourcemanagementsystem.csproj|solutionrelative:hmresourcemanagementsystem\\listchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyLuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\QuanLyLuong.cs",
+              "RelativeDocumentMoniker": "HMresourcemanagementsystem\\QuanLyLuong.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\QuanLyLuong.cs [Design]",
+              "RelativeToolTip": "HMresourcemanagementsystem\\QuanLyLuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:17:25.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BangCong.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\BangCong.cs",
+              "RelativeDocumentMoniker": "HMresourcemanagementsystem\\BangCong.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\BangCong.cs",
+              "RelativeToolTip": "HMresourcemanagementsystem\\BangCong.cs",
+              "ViewState": "AQIAAOEBAAAAAAAAAAAqwOYBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:05:46.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BangCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\BangCong.cs",
+              "RelativeDocumentMoniker": "HMresourcemanagementsystem\\BangCong.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\BangCong.cs [Design]",
+              "RelativeToolTip": "HMresourcemanagementsystem\\BangCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:01:41.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListChamCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\ListChamCong.cs",
+              "RelativeDocumentMoniker": "HMresourcemanagementsystem\\ListChamCong.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Zalo Received Files\\\u0110\u1ED3 \u00E1n NET\\DA_CNNET\\HMresourcemanagementsystem\\HMresourcemanagementsystem\\ListChamCong.cs [Design]",
+              "RelativeToolTip": "HMresourcemanagementsystem\\ListChamCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:00:51.611Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
